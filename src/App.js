@@ -4,9 +4,6 @@ import Card from './Components/Card';
 import React, { useEffect, useState } from 'react';
 
 
-
-
-
 function App() {
 
   const [movies, setMovies] = useState("");
